@@ -1,0 +1,336 @@
+SciDAVis 1.26.0 project file
+<scripting-lang>	muParser
+<windows>	7
+<table>
+3263
+<table creation_time="2021-17-06 13:36:32:774" caption_spec="%n%C{ - }%c" name="共振干涉" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-17-06 13:36:32:774" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 13:36:32:774" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 13:36:32:775" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">9.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.1000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">1.2000000000000000e+01</row></column><column creation_time="2021-17-06 13:36:32:776" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 13:36:32:776" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 13:36:32:776" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.2660000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">2.7239999999999998e+01</row><row type="TypeDouble" index="2" invalid="no">3.2020000000000003e+01</row><row type="TypeDouble" index="3" invalid="no">3.6520000000000003e+01</row><row type="TypeDouble" index="4" invalid="no">4.1359999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">4.6100000000000001e+01</row><row type="TypeDouble" index="6" invalid="no">5.0820000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">5.5600000000000001e+01</row><row type="TypeDouble" index="8" invalid="no">6.0259999999999998e+01</row><row type="TypeDouble" index="9" invalid="no">6.5040000000000006e+01</row><row type="TypeDouble" index="10" invalid="no">6.9739999999999995e+01</row><row type="TypeDouble" index="11" invalid="no">7.4420000000000002e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	-67	-1	684	467	
+
+</table>
+<table>
+3929
+<table creation_time="2021-17-06 15:32:08:830" caption_spec="%n%C{ - }%c" name="相位比较" columns="3" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-17-06 15:32:08:830" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 15:32:08:830" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 15:32:08:831" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">8.0000000000000000e+00</row></column><column creation_time="2021-17-06 15:32:08:832" caption_spec="%n%C{ - }%c" name="液体" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 15:32:08:832" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 15:32:08:832" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.3000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">8.4359999999999999e+01</row><row type="TypeDouble" index="2" invalid="no">1.0445999999999999e+02</row><row type="TypeDouble" index="3" invalid="no">1.2680000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">1.4572000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">1.6662000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">1.8903999999999999e+02</row><row type="TypeDouble" index="7" invalid="no">2.1012000000000000e+02</row></column><column creation_time="2021-17-06 15:37:05:757" caption_spec="%n%C{ - }%c" name="空气" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 15:37:05:757" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 15:37:05:757" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0400000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.3780000000000001e+01</row><row type="TypeDouble" index="2" invalid="no">4.4079999999999998e+01</row><row type="TypeDouble" index="3" invalid="no">6.3219999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">8.4719999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">1.0658000000000000e+02</row><row type="TypeDouble" index="6" invalid="no">1.2722000000000000e+02</row><row type="TypeDouble" index="7" invalid="no">1.4658000000000001e+02</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width></table>
+geometry	-14	147	684	467	
+
+</table>
+<table>
+1932
+<table creation_time="2021-17-06 16:13:06:782" caption_spec="%n%C{ - }%c" name="有机玻璃" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-17-06 16:13:06:782" caption_spec="%n%C{ - }%c" name="length" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 16:13:06:782" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 16:13:06:782" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.6022000000000003e+02</row><row type="TypeDouble" index="1" invalid="no">2.2022000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">1.8009999999999999e+02</row></column><column creation_time="2021-17-06 16:13:06:783" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 16:13:06:783" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 16:13:06:783" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.5100000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">1.3300000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">1.1600000000000000e+02</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	443	146	684	467	
+
+</table>
+<table>
+1929
+<table creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="铜" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="length" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.6769999999999999e+02</row><row type="TypeDouble" index="1" invalid="no">2.0809999999999999e+02</row><row type="TypeDouble" index="2" invalid="no">2.4753999999999999e+02</row></column><column creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-17-06 16:14:28:489" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.8000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">7.9000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">8.6000000000000000e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	134	132	684	467	
+
+</table>
+<multiLayer>
+图片1	1	1	2021/6/17 14:42
+geometry	19	38	616	434	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	604	381
+PlotTitle	最大振幅距离与实验次序关系图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	实验序号	距离(mm)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Helvetica	24	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Helvetica	24	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	共振干涉_1	共振干涉_2	1	0	#ff000000	0	1	9	1	#ff0000ff	#ff0000ff	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,1,12	2			0	1	#ffff0000	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	56251888	24576	1
+<formula>
+B=17.8193939393939
+A=4.71727272727273
+
+A*x+B
+</formula>
+scale	0	20	80	0	8	1	0	0
+scale	1	20	80	0	10	1	0	0
+scale	2	0	13	0	8	1	0	0
+scale	3	0	13	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.795918367346939	74.9295774647887	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}实验数据点	\c{2}y=4.71727x+17.819	         R^2=0.9999828</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+图片3	2	1	2021/6/17 15:35
+geometry	91	125	1182	470	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	519	330
+Alignement	0	0
+<graph>
+ggeometry	5	5	584	416
+PlotTitle	相位比较法出现直线的距离与实验次序关系图（液体档）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	实验次序	距离(mm)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	21	50	0	0	0
+ScaleFont0	Helvetica	21	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	43	75	0	0	0
+ScaleFont2	Helvetica	21	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	43	75	0	0	0
+AxisFont0	Helvetica	12	50	0	0	0
+AxisFont1	.AppleSystemUIFont	43	50	0	0	0
+AxisFont2	Helvetica	12	50	0	0	0
+AxisFont3	.AppleSystemUIFont	43	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	相位比较_1	相位比较_液体	1	0	#ff000000	0	1	9	2	#ffff0000	#ffff0000	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,1,8	2			0	1	#ff2369ff	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	56863040	24576	1
+<formula>
+B=42.0521428571429
+A=20.9361904761905
+
+A*x+B
+</formula>
+scale	0	40	220	0	8	1	0	0
+scale	1	40	220	0	10	1	0	0
+scale	2	0	9	0	10	1	0	0
+scale	3	0	9	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.555984555984556	205.775075987842	Helvetica	19	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}实验数据点	\c{2}y=20.9362x+42.0521 	           R^2=0.99978</legend>
+</graph>
+<graph>
+ggeometry	594	7	579	408
+PlotTitle	相位比较法出现直线的距离与实验次序关系图（空气档）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	实验次序	距离(mm)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	19	50	0	0	0
+ScaleFont0	Helvetica	19	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	38	75	0	0	0
+ScaleFont2	Helvetica	19	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	38	75	0	0	0
+AxisFont0	Helvetica	11	50	0	0	0
+AxisFont1	.AppleSystemUIFont	38	50	0	0	0
+AxisFont2	Helvetica	11	50	0	0	0
+AxisFont3	.AppleSystemUIFont	38	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	相位比较_1	相位比较_空气	1	0	#ff000000	0	1	13	3	#ffff8000	#ffff8000	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,1,8	2			0	1	#ff0829ff	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	57012176	24576	1
+<formula>
+B=-18.8285714285714
+A=20.7735714285714
+
+A*x+B
+</formula>
+scale	0	-20	160	0	4	1	0	0
+scale	1	-20	160	0	10	1	0	0
+scale	2	0	9	0	10	1	0	0
+scale	3	0	9	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.486486486486487	144.68085106383	Helvetica	18	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}实验数据点	\c{2}y=20.7735x-18.8285	             R^2=0.99971</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+图片4	1	1	2021/6/17 16:19
+geometry	442	81	750	448	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	738	395
+PlotTitle	有机玻璃与黄铜棒中长度与时间关系图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	时间(μs)	长度(mm)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	25	50	0	0	0
+ScaleFont0	Helvetica	25	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	50	75	0	0	0
+ScaleFont2	Helvetica	25	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	50	75	0	0	0
+AxisFont0	Helvetica	15	50	0	0	0
+AxisFont1	.AppleSystemUIFont	50	50	0	0	0
+AxisFont2	Helvetica	15	50	0	0	0
+AxisFont3	.AppleSystemUIFont	50	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	有机玻璃_2	有机玻璃_length	1	0	#ff000000	0	1	9	2	#ffff0000	#ffff0000	0	#ff000000	14	0	0	64		2	0	0	29	1
+curve	铜_2	铜_length	1	0	#ffff0000	0	1	11	3	#ff800080	#ff800080	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,116,151	2			0	1	#ff008000	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	57107696	24576	1
+<formula>
+B=-84.9516648531012
+A=2.28848748639826
+
+A*x+B
+</formula>
+FunctionCurve	0,线性拟合2,x,68,86	2			0	1	#ff0000a0	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	57104864	24576	1
+<formula>
+B=-131.437813765182
+A=4.36761133603239
+
+A*x+B
+</formula>
+scale	0	160	280	0	8	1	0	0
+scale	1	160	280	0	10	1	0	0
+scale	2	60	160	0	11	1	0	0
+scale	3	60	160	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	97.890044576523	269.367088607595	Helvetica	15	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}有机玻璃数据	\c{2}铜数据	\c{3}K1=2.288487	\c{4}K2=4.367611</legend>
+</graph>
+</multiLayer>
+<log>
+[2021/6/17 14:43	绘图: '''']
+线性回归 数据集拟合: 共振干涉_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 1 到 x = 12
+B （Y截距） = 17.8193939393939 +/- 0.0454368652483821
+A （斜率） = 4.71727272727273 +/- 0.00617365428291189
+--------------------------------------------------------------------------------------
+Chi^2 = 0.0545030303030303
+R^2 = 0.999982872451649
+---------------------------------------------------------------------------------------
+[2021/6/17 14:51	绘图: '''']
+线性回归 数据集拟合: 共振干涉_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 1 到 x = 12
+B （Y截距） = 17.8193939393939 +/- 0.0454368652483821
+A （斜率） = 4.71727272727273 +/- 0.00617365428291189
+--------------------------------------------------------------------------------------
+Chi^2 = 0.0545030303030303
+R^2 = 0.999982872451649
+---------------------------------------------------------------------------------------
+[2021/6/17 15:34	绘图: '''']
+线性回归 数据集拟合: 相位比较_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 1 到 x = 8
+B （Y截距） = 42.0521428571429 +/- 0.636780584245196
+A （斜率） = 20.9361904761905 +/- 0.126101346181126
+--------------------------------------------------------------------------------------
+Chi^2 = 4.00719047619046
+R^2 = 0.999782378974482
+---------------------------------------------------------------------------------------
+[2021/6/17 15:39	绘图: '''']
+线性回归 数据集拟合: 相位比较_空气, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 1 到 x = 8
+B （Y截距） = -18.8285714285714 +/- 0.717324903378378
+A （斜率） = 20.7735714285714 +/- 0.142051498119216
+--------------------------------------------------------------------------------------
+Chi^2 = 5.08501428571425
+R^2 = 0.999719522049943
+---------------------------------------------------------------------------------------
+[2021/6/17 16:18	绘图: '''']
+线性回归 数据集拟合: 有机玻璃_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 180.1 到 x = 260.22
+B （Y截距） = 37.1503039705099 +/- 1.68812911308467
+A （斜率） = 0.436838174960593 +/- 0.00758381559833144
+--------------------------------------------------------------------------------------
+Chi^2 = 0.184598317917955
+R^2 = 0.999698696978371
+---------------------------------------------------------------------------------------
+[2021/6/17 16:19	绘图: '''']
+线性回归 数据集拟合: 铜_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 167.7 到 x = 247.54
+B （Y截距） = 30.7830150099259 +/- 5.75416480077709
+A （斜率） = 0.225640829996827 +/- 0.0273589458238629
+--------------------------------------------------------------------------------------
+Chi^2 = 2.38578173294834
+R^2 = 0.985511446965901
+---------------------------------------------------------------------------------------
+[2021/6/17 16:21	绘图: '''']
+线性回归 数据集拟合: 有机玻璃_length, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 116 到 x = 151
+B （Y截距） = -84.9516648531012 +/- 5.32763813818274
+A （斜率） = 2.28848748639826 +/- 0.0397297399603391
+--------------------------------------------------------------------------------------
+Chi^2 = 0.967065070729036
+R^2 = 0.999698696978371
+---------------------------------------------------------------------------------------
+[2021/6/17 16:22	绘图: '''']
+线性回归 数据集拟合: 铜_length, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 68 到 x = 86
+B （Y截距） = -131.437813765182 +/- 41.3168597802757
+A （斜率） = 4.36761133603239 +/- 0.529572781326322
+--------------------------------------------------------------------------------------
+Chi^2 = 46.180327125506
+R^2 = 0.985511446965901
+---------------------------------------------------------------------------------------
+</log>

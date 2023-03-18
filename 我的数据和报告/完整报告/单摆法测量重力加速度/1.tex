@@ -1,0 +1,97 @@
+\documentclass[UTF8]{ctexart}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{cite}
+\usepackage{mathtools}
+\usepackage[a4paper,left=2.5cm,right=2.5cm,top=3cm,bottom=3cm]{geometry}
+\title{实验报告}
+\author{禤科材 PB20030874 20级14系}
+\date{\today}
+\bibliographystyle{plain}
+
+\begin{document}
+    \maketitle
+
+    \section{实验目的}
+    
+    \section{实验原理}
+
+
+    \section{实验设计}
+    根据不确定度均分原理：
+    \begin{equation}
+        \ln g = \ln l + 2\ln t
+    \end{equation}
+
+    设计精度$0.01$，故：
+    \begin{gather}
+        \frac{\varDelta l}{l}<0.005 \\
+        2\frac{\varDelta t}{t}<0.005
+    \end{gather}
+    \section{实验步骤}
+
+    \section{实验记录}
+    \begin{center}
+        \begin{tabular}{llllllll}
+            摆长(cm)   & 72.23 & 71.85 & 71.80 & 71.78 & 71.81 & 71.79 & 71.80 \\
+            时间(s)    & 84.08 & 84.13 & 84.22 & 84.21 & 84.20 & 84.24 & 83.93 \\
+            \hline
+        \end{tabular}
+
+    实验人：禤科材
+
+    实验仪器：卷尺、秒表、立柱、摆线、摆球
+\end{center}
+
+
+    \section{数据处理}
+        \emph{摆长$l$平均值:}
+        \begin{equation}
+            \overline{l}=\frac{72.23 + 71.85 + 71.80 +71.78 + 71.81+ 71.79+71.8}{7}
+        \end{equation}
+
+        \emph{摆长$l$标准差:}
+        \begin{equation}
+            \sigma _l=\sqrt{\frac{(72.23-71.87)^2+()^2+()^2+()^2+()^2+()^2+()^2}{7-1}}
+        \end{equation}
+
+        \emph{摆长$l$展伸不确定度(P=0.95)：}
+        \begin{equation}
+            U_{l}=\sqrt{(t_{0.95}·\frac{\sigma _l}{\sqrt{n}})^2}=
+        \end{equation}
+
+        \emph{单摆周期$t$平均值：}
+        \begin{equation}
+            \overline{t}=\frac{ +  +  + + + +}{7} =
+        \end{equation}
+
+        \emph{周期$t$标准差：}
+        \begin{equation}
+            \sigma _l=\sqrt{\frac{(72.23-71.87)^2+(-)^2+(-)^2+(-)^2+(-)^2+(-)^2+(-)^2}{7-1}} 
+        \end{equation}
+
+        \emph{对周期$t$而言：}
+        \begin{equation}
+            \varDelta B_t=\frac{\sqrt{\varDelta _仪^2+\varDelta _人^2}}{50}=
+        \end{equation}
+
+        \emph{周期$t$展伸不确定度(P=0.95)：}
+        \begin{equation}
+           U_{t}=\sqrt{(t_{0.95}·\frac{\sigma _t}{\sqrt{n}})^2+(k_p·\frac{\varDelta B_t}{C})^2}= 
+        \end{equation}
+
+        \emph{重力加速度$g$的展伸不确定度：}
+        \begin{equation}
+            \frac{U_g}{g}=\sqrt{(\frac{U_l}{l})^2+4·(\frac{U_t}{t})^2}=
+        \end{equation}
+    \section{误差分析}
+
+    \section{提出改进}
+
+    \nocite{a}
+    \nocite{b}
+    \nocite{c}
+    \nocite{d}
+    \bibliography{math}
+
+\end{document}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 自由落体法测量重力加速度.aux
+The style file: plain.bst
+Database file #1: math.bib
+Warning--empty journal in jiangyi
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            515 strings with 4376 characters,
+and the built_in function-call counts, 868 in all, are:
+= -- 76
+> -- 28
+< -- 0
++ -- 12
+- -- 8
+* -- 34
+:= -- 161
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 46
+empty$ -- 84
+format.name$ -- 8
+if$ -- 179
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 7
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 25
+stack$ -- 0
+substring$ -- 20
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 1
+while$ -- 8
+width$ -- 5
+write$ -- 41
+(There was 1 warning)

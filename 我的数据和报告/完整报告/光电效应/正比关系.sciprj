@@ -1,0 +1,189 @@
+SciDAVis 1.26.0 project file
+<scripting-lang>	muParser
+<windows>	4
+<table>
+3038
+<table creation_time="2021-06-05 22:36:00:000" caption_spec="%n%C{ - }%c" name="表格1" columns="3" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-06-05 22:36:04:807" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-06-05 22:36:04:807" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-06-05 22:36:04:807" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.0592250000000001e+02</row><row type="TypeDouble" index="1" invalid="no">6.4000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">4.0000000000000000e+00</row></column><column creation_time="2021-06-05 22:36:04:808" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-06-05 22:36:04:808" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-06-05 22:36:04:808" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.6400000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">1.4450000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">3.5600000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">1.0100000000000000e+01</row></column><column creation_time="2021-06-05 22:40:02:950" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-06-05 22:40:02:950" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-06-05 22:40:02:950" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.8399999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.5800000000000001e+01</row><row type="TypeDouble" index="2" invalid="no">4.0999999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">1.3999999999999999e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width></table>
+geometry	35	14	684	467	
+
+</table>
+<table>
+3482
+<table creation_time="2021-13-05 12:34:05:424" caption_spec="%n%C{ - }%c" name="表格2" columns="3" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-13-05 12:34:05:424" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-13-05 12:34:05:424" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-13-05 12:34:05:424" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.2500000000000003e-06</row><row type="TypeDouble" index="1" invalid="no">6.9252100000000001e-06</row><row type="TypeDouble" index="2" invalid="no">7.7160500000000004e-06</row><row type="TypeDouble" index="3" invalid="no">8.6505199999999993e-06</row><row type="TypeDouble" index="4" invalid="no">9.7656300000000006e-06</row><row type="TypeDouble" index="5" invalid="no">1.1111099999999999e-05</row></column><column creation_time="2021-13-05 12:34:05:427" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-13-05 12:34:05:427" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-13-05 12:34:05:427" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.4900000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">1.6900000000000000e+02</row><row type="TypeDouble" index="2" invalid="no">1.9500000000000000e+02</row><row type="TypeDouble" index="3" invalid="no">2.2700000000000000e+02</row><row type="TypeDouble" index="4" invalid="no">2.6900000000000000e+02</row><row type="TypeDouble" index="5" invalid="no">3.2700000000000000e+02</row></column><column creation_time="2021-13-05 12:34:09:015" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-13-05 12:34:09:015" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-13-05 12:34:09:015" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.5699999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">2.1199999999999999e+01</row><row type="TypeDouble" index="3" invalid="no">2.4399999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">2.8899999999999999e+01</row><row type="TypeDouble" index="5" invalid="no">3.4299999999999997e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width></table>
+geometry	-2	82	684	467	
+
+</table>
+<multiLayer>
+图片1	1	1	2021/5/6 22:28
+geometry	479	39	937	611	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	920	554
+PlotTitle	hight versus time in a series of free falls	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	time/s	hight/m			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	35	50	0	0	0
+ScaleFont0	Helvetica	35	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	70	75	0	0	0
+ScaleFont2	Helvetica	35	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	70	75	0	0	0
+AxisFont0	Helvetica	20	50	0	0	0
+AxisFont1	.AppleSystemUIFont	70	50	0	0	0
+AxisFont2	Helvetica	20	50	0	0	0
+AxisFont3	.AppleSystemUIFont	70	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	表格1_1	表格1_2	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	14	1	0	64		2	0	0	29	1
+curve	表格1_1	表格1_3	1	0	#ffff0000	0	1	7	2	#ffff0000	#ffff0000	0	#ff000000	14	1	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,4,205.9225	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64		2	0	32928320	24576	1
+<formula>
+B=0.375699030488761
+A=2.25128164898566
+
+A*x+B
+
+</formula>
+FunctionCurve	0,线性拟合2,x,4,205.9225	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64		2	0	32925200	24576	1
+<formula>
+B=0.549781648374481
+A=0.23282385260372
+
+A*x+B
+
+</formula>
+scale	0	-100	500	0	8	1	0	0
+scale	1	-100	500	0	10	1	0	0
+scale	2	0	250	0	10	1	0	0
+scale	3	0	250	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	15.3614457831325	452.106430155211	Helvetica	20	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}	\c{2}	\c{3}线性拟合1	\c{4}线性拟合2</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+图片2	1	1	2021/5/13 12:34
+geometry	169	33	799	526	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	785	471
+PlotTitle	I versus U with wavelength 577nm	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	U/V	I/10^(-13)A			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	30	50	0	0	0
+ScaleFont0	Helvetica	30	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	59	75	0	0	0
+ScaleFont2	Helvetica	30	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	59	75	0	0	0
+AxisFont0	Helvetica	17	50	0	0	0
+AxisFont1	.AppleSystemUIFont	59	50	0	0	0
+AxisFont2	Helvetica	17	50	0	0	0
+AxisFont3	.AppleSystemUIFont	59	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	表格2_1	表格2_2	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	14	1	0	64		2	0	0	29	1
+curve	表格2_1	表格2_3	1	0	#ffff0000	0	1	7	2	#ffff0000	#ffff0000	0	#ff000000	14	1	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,6.25e-06,1.11111e-05	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64		2	0	31589504	24576	1
+<formula>
+B=-83.9703594190817
+A=36491006.11094
+
+A*x+B
+</formula>
+FunctionCurve	0,线性拟合2,x,6.25e-06,1.11111e-05	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64		2	0	31510176	24576	1
+<formula>
+B=-8.41849770897726
+A=3828177.11697279
+
+A*x+B
+</formula>
+scale	0	0	350	0	8	1	0	0
+scale	1	0	350	0	10	1	0	0
+scale	2	6e-06	1.2e-05	0	6	1	0	0
+scale	3	6e-06	1.2e-05	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	6.37707948243993e-06	314.309210526316	Helvetica	17	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{1}表格2_2	\c{2}表格2_3	\c{3}线性拟合1	\c{4}线性拟合2	</legend>
+</graph>
+</multiLayer>
+<log>
+[2021/5/6 22:40	绘图: '''']
+线性回归 数据集拟合: 表格1_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 4 到 x = 205.9225
+B （Y截距） = 0.375699030488761 +/- 0.511824132751141
+A （斜率） = 2.25128164898566 +/- 0.00473322807125429
+--------------------------------------------------------------------------------------
+Chi^2 = 1.1541500058164
+R^2 = 0.999991159407823
+---------------------------------------------------------------------------------------
+[2021/5/6 22:40	绘图: '''']
+线性回归 数据集拟合: 表格1_3, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 4 到 x = 205.9225
+B （Y截距） = 0.549781648374481 +/- 0.195310728878701
+A （斜率） = 0.23282385260372 +/- 0.00180618725337691
+--------------------------------------------------------------------------------------
+Chi^2 = 0.16806332101628
+R^2 = 0.999879649381007
+---------------------------------------------------------------------------------------
+[2021/5/13 12:35	绘图: '''']
+线性回归 数据集拟合: 表格2_2, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 6.25e-06 到 x = 1.11111e-05
+B （Y截距） = -83.9703594190817 +/- 10.2510055713359
+A （斜率） = 36,491,006.11094 +/- 1,196,768.5144313
+--------------------------------------------------------------------------------------
+Chi^2 = 94.7751973467421
+R^2 = 0.995716052553259
+---------------------------------------------------------------------------------------
+[2021/5/13 12:35	绘图: '''']
+线性回归 数据集拟合: 表格2_3, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 6.25e-06 到 x = 1.11111e-05
+B （Y截距） = -8.41849770897726 +/- 0.444571434641994
+A （斜率） = 3,828,177.11697279 +/- 51,902.1369847673
+--------------------------------------------------------------------------------------
+Chi^2 = 0.178256291373307
+R^2 = 0.999265270938016
+---------------------------------------------------------------------------------------
+</log>

@@ -1,0 +1,88 @@
+SciDAVis 1.26.0 template file
+<multiLayer>	1	1
+geometry	632	51	780	571	active
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	768	518
+PlotTitle	U versus t in series of charged oil	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	t(s)	U(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	33	50	0	0	0
+ScaleFont0	Helvetica	33	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	65	75	0	0	0
+ScaleFont2	Helvetica	33	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	65	75	0	0	0
+AxisFont0	Helvetica	19	50	0	0	0
+AxisFont1	.AppleSystemUIFont	65	50	0	0	0
+AxisFont2	Helvetica	19	50	0	0	0
+AxisFont3	.AppleSystemUIFont	65	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+scale	0	0	600	0	8	1	0	0
+scale	1	0	600	0	10	1	0	0
+scale	2	0	100	0	6	1	0	0
+scale	3	0	100	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	56.2082777036048	533.932584269663	Helvetica	19	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}表格1_电压</legend>
+</graph>
+<graph>
+ggeometry	1128	424	768	518
+PlotTitle	U versus t in series of charged oil	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	t(s)	U(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	45	50	0	0	0
+ScaleFont0	Helvetica	45	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	89	75	0	0	0
+ScaleFont2	Helvetica	45	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	89	75	0	0	0
+AxisFont0	Helvetica	26	50	0	0	0
+AxisFont1	.AppleSystemUIFont	89	50	0	0	0
+AxisFont2	Helvetica	26	50	0	0	0
+AxisFont3	.AppleSystemUIFont	89	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+scale	0	0	600	0	8	1	0	0
+scale	1	0	600	0	10	1	0	0
+scale	2	0	100	0	6	1	0	0
+scale	3	0	100	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	56.2082777036048	533.932584269663	Helvetica	26	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}表格1_电压</legend>
+</graph>
+</multiLayer>

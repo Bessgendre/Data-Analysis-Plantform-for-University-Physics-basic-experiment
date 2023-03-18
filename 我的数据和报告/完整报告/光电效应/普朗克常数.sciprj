@@ -1,0 +1,138 @@
+SciDAVis 1.26.0 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+2226
+<table creation_time="2021-06-05 12:59:00:000" caption_spec="%n%C{ - }%c" name="表格1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="频率" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">8.2140000000000004e+00</row><row type="TypeDouble" index="1" invalid="no">7.4080000000000004e+00</row><row type="TypeDouble" index="2" invalid="no">6.8789999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">5.4900000000000002e+00</row><row type="TypeDouble" index="4" invalid="no">5.1959999999999997e+00</row></column><column creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="截止电压" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-06-05 12:59:39:962" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.7090000000000001e+00</row><row type="TypeDouble" index="1" invalid="no">1.4179999999999999e+00</row><row type="TypeDouble" index="2" invalid="no">1.0900000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">5.3800000000000003e-01</row><row type="TypeDouble" index="4" invalid="no">4.4000000000000000e-01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	46	6	318	546	
+
+</table>
+<multiLayer>
+图片1	1	1	2021/5/6 13:03
+geometry	412	21	719	559	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	709	507
+PlotTitle	U versus v in a series of photoelectics	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	v/10^14Hz	U/V			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	32	50	0	0	0
+ScaleFont0	Helvetica	32	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	64	75	0	0	0
+ScaleFont2	Helvetica	32	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	64	75	0	0	0
+AxisFont0	Helvetica	19	50	0	0	0
+AxisFont1	.AppleSystemUIFont	64	50	0	0	0
+AxisFont2	Helvetica	19	50	0	0	0
+AxisFont3	.AppleSystemUIFont	64	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	表格1_频率	表格1_截止电压	1	0	#ffff0000	0	1	7	1	#ffff0000	#ffff0000	0	#ff000000	14	1	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,5.196,8.214	2			0	1	#ffff0000	0	1	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64		2	0	18120064	24576	1
+<formula>
+B=-1.80510055644015
+A=0.428496181703702
+
+A*x+B
+</formula>
+scale	0	0.4	1.8	0	8	1	0	0
+scale	1	0.4	1.8	0	10	1	0	0
+scale	2	5	9	0	5	1	0	0
+scale	3	5	9	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	5.20787401574803	1.72487804878049	Helvetica	19	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}线性拟合1	</legend>
+</graph>
+</multiLayer>
+<log>
+[2021/5/6 19:52	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.82757011867319 +/- 0.108166216845001
+A （斜率） = 0.43257451994353 +/- 0.0160600915341927
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00505434643122512
+R^2 = 0.995881839856084
+---------------------------------------------------------------------------------------
+[2021/5/6 19:54	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.81590948709429 +/- 0.0914856341307553
+A （斜率） = 0.430215067209192 +/- 0.0135834246686191
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00361565954842287
+R^2 = 0.9970182468573
+---------------------------------------------------------------------------------------
+[2021/5/6 19:55	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.78321834187607 +/- 0.0748973141657274
+A （斜率） = 0.424235143561646 +/- 0.0111204566106849
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00242333923134256
+R^2 = 0.997942883465388
+---------------------------------------------------------------------------------------
+[2021/5/6 21:36	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.80653960503386 +/- 0.109678188262956
+A （斜率） = 0.428954049030322 +/- 0.0162845830628576
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00519663555888774
+R^2 = 0.995694939107832
+---------------------------------------------------------------------------------------
+[2021/5/6 21:39	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.80510055644015 +/- 0.113915211799039
+A （斜率） = 0.428496181703702 +/- 0.0169136795386965
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00560589770896706
+R^2 = 0.995347586519401
+---------------------------------------------------------------------------------------
+[2021/5/6 22:42	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.80510055644015 +/- 0.113915211799039
+A （斜率） = 0.428496181703702 +/- 0.0169136795386965
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00560589770896706
+R^2 = 0.995347586519401
+---------------------------------------------------------------------------------------
+[2021/5/6 22:44	绘图: '''']
+线性回归 数据集拟合: 表格1_截止电压, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.196 到 x = 8.214
+B （Y截距） = -1.80510055644015 +/- 0.113915211799039
+A （斜率） = 0.428496181703702 +/- 0.0169136795386965
+--------------------------------------------------------------------------------------
+Chi^2 = 0.00560589770896706
+R^2 = 0.995347586519401
+---------------------------------------------------------------------------------------
+</log>

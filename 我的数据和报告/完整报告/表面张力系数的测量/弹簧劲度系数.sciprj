@@ -1,0 +1,78 @@
+SciDAVis 1.26.0 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+3422
+<table creation_time="2021-15-04 22:30:24:785" caption_spec="%n%C{ - }%c" name="表格1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-15-04 22:30:24:785" caption_spec="%n%C{ - }%c" name="拉力(mN)" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-15-04 22:30:24:785" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-15-04 22:30:24:785" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">4.8973500000000003e+00</row><row type="TypeDouble" index="2" invalid="no">9.7947000000000006e+00</row><row type="TypeDouble" index="3" invalid="no">1.4692050000000000e+01</row><row type="TypeDouble" index="4" invalid="no">1.9589400000000001e+01</row><row type="TypeDouble" index="5" invalid="no">2.4486750000000001e+01</row><row type="TypeDouble" index="6" invalid="no">2.9384100000000000e+01</row><row type="TypeDouble" index="7" invalid="no">3.4281450000000000e+01</row><row type="TypeDouble" index="8" invalid="no">3.9178800000000003e+01</row><row type="TypeDouble" index="9" invalid="no">4.4076149999999998e+01</row><row type="TypeDouble" index="10" invalid="no">4.8973500000000001e+01</row><row type="TypeDouble" index="11" invalid="no">5.3870849999999997e+01</row><row type="TypeDouble" index="12" invalid="no">5.8768200000000000e+01</row></column><column creation_time="2021-15-04 22:30:24:786" caption_spec="%n%C{ - }%c" name="形变(mm)" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-15-04 22:30:24:786" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-15-04 22:30:24:786" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">4.2999999999999998e+00</row><row type="TypeDouble" index="2" invalid="no">8.5999999999999996e+00</row><row type="TypeDouble" index="3" invalid="no">1.2699999999999999e+01</row><row type="TypeDouble" index="4" invalid="no">1.7100000000000001e+01</row><row type="TypeDouble" index="5" invalid="no">2.1199999999999999e+01</row><row type="TypeDouble" index="6" invalid="no">2.5600000000000001e+01</row><row type="TypeDouble" index="7" invalid="no">3.0500000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">3.4700000000000003e+01</row><row type="TypeDouble" index="9" invalid="no">3.9299999999999997e+01</row><row type="TypeDouble" index="10" invalid="no">4.3399999999999999e+01</row><row type="TypeDouble" index="11" invalid="no">4.7600000000000001e+01</row><row type="TypeDouble" index="12" invalid="no">5.1899999999999999e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	43	112	684	467	
+
+</table>
+<multiLayer>
+图片1	1	1	2021/4/15 下午10:37
+geometry	698	56	616	434	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	604	381
+PlotTitle	弹簧拉力-形变量回归曲线图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	形变量/mm	拉力/mN			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Helvetica	24	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Helvetica	24	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	表格1_拉力(mN)	表格1_形变(mm)	1	0	#ff000000	0	1	11	1	#ff000000	-1	0	#ff000000	14	2	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,0,58.7682	2			0	1	#ffff0000	4	2	11	1	#ff000000	-1	0	#ff000000	14	2	16	64	4 2 1 2 1 2	2	0	18909584	24576	1
+<formula>
+B=-0.174725274725283
+A=0.887898893963398
+
+A*x+B
+</formula>
+scale	0	-2	60	0	8	1	0	0
+scale	1	-2	60	0	10	1	0	0
+scale	2	-2	60	0	8	1	0	0
+scale	3	-2	60	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	1.72677595628415	55.1052631578947	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=0.88789889x-0.1747252	</legend>
+</graph>
+</multiLayer>
+<log>
+[2021/4/15 下午10:38	绘图: '''']
+线性回归 数据集拟合: 表格1_形变(mm), 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 0 到 x = 58.7682
+B （Y截距） = -0.174725274725283 +/- 0.115206084231131
+A （斜率） = 0.887898893963398 +/- 0.00332681974511853
+--------------------------------------------------------------------------------------
+Chi^2 = 0.53142857142857
+R^2 = 0.999845596502282
+---------------------------------------------------------------------------------------
+</log>

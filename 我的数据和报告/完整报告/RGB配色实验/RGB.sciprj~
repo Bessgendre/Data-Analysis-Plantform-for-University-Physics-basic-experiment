@@ -1,0 +1,526 @@
+SciDAVis 1.26.0 project file
+<scripting-lang>	muParser
+<windows>	7
+<table>
+4611
+<table creation_time="2021-29-05 22:12:00:000" caption_spec="%n%C{ - }%c" name="红光" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-29-05 22:12:39:544" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:12:39:544" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:12:39:545" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">2.5000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">3.5000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">4.0000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">4.5000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">5.0000000000000000e+01</row><row type="TypeDouble" index="11" invalid="no">5.5500000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">6.1500000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">6.6500000000000000e+01</row><row type="TypeDouble" index="14" invalid="no">7.0000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">7.5500000000000000e+01</row><row type="TypeDouble" index="16" invalid="no">8.1000000000000000e+01</row><row type="TypeDouble" index="17" invalid="no">8.3599999999999994e+01</row><row type="TypeDouble" index="18" invalid="no">8.8799999999999997e+01</row><row type="TypeDouble" index="19" invalid="no">9.6000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">9.9599999999999994e+01</row></column><column creation_time="2021-29-05 22:14:44:467" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:14:44:467" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:14:44:467" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.6122000000000001e+00</row><row type="TypeDouble" index="1" invalid="no">1.7343000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.7611000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">1.7798000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.7943000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.8075000000000001e+00</row><row type="TypeDouble" index="6" invalid="no">1.8189000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">1.8291999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">1.8385000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">1.8473999999999999e+00</row><row type="TypeDouble" index="10" invalid="no">1.8559000000000001e+00</row><row type="TypeDouble" index="11" invalid="no">1.8646000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">1.8740000000000001e+00</row><row type="TypeDouble" index="13" invalid="no">1.8817999999999999e+00</row><row type="TypeDouble" index="14" invalid="no">1.8866000000000001e+00</row><row type="TypeDouble" index="15" invalid="no">1.8946000000000001e+00</row><row type="TypeDouble" index="16" invalid="no">1.9020999999999999e+00</row><row type="TypeDouble" index="17" invalid="no">1.9053000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">1.9124000000000001e+00</row><row type="TypeDouble" index="19" invalid="no">1.9221999999999999e+00</row><row type="TypeDouble" index="20" invalid="no">1.9266000000000001e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	22	33	684	467	
+
+</table>
+<table>
+4611
+<table creation_time="2021-29-05 22:15:00:000" caption_spec="%n%C{ - }%c" name="绿光" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-29-05 22:15:20:580" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:15:20:580" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:15:20:580" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">1.3000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">1.5199999999999999e+01</row><row type="TypeDouble" index="6" invalid="no">1.9800000000000001e+01</row><row type="TypeDouble" index="7" invalid="no">2.4399999999999999e+01</row><row type="TypeDouble" index="8" invalid="no">2.9199999999999999e+01</row><row type="TypeDouble" index="9" invalid="no">3.3000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">3.6799999999999997e+01</row><row type="TypeDouble" index="11" invalid="no">4.0500000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">4.3200000000000003e+01</row><row type="TypeDouble" index="13" invalid="no">5.0100000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">5.2700000000000003e+01</row><row type="TypeDouble" index="15" invalid="no">5.6200000000000003e+01</row><row type="TypeDouble" index="16" invalid="no">6.0500000000000000e+01</row><row type="TypeDouble" index="17" invalid="no">6.7000000000000000e+01</row><row type="TypeDouble" index="18" invalid="no">7.1799999999999997e+01</row><row type="TypeDouble" index="19" invalid="no">7.5299999999999997e+01</row><row type="TypeDouble" index="20" invalid="no">8.1200000000000003e+01</row></column><column creation_time="2021-29-05 22:15:45:883" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:15:45:883" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:15:45:883" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.0699999999999998e+00</row><row type="TypeDouble" index="1" invalid="no">2.1770000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">2.2400000000000002e+00</row><row type="TypeDouble" index="3" invalid="no">2.2759999999999998e+00</row><row type="TypeDouble" index="4" invalid="no">2.2999999999999998e+00</row><row type="TypeDouble" index="5" invalid="no">2.3170000000000002e+00</row><row type="TypeDouble" index="6" invalid="no">2.3450000000000002e+00</row><row type="TypeDouble" index="7" invalid="no">2.3740000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">2.3990000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">2.4169999999999998e+00</row><row type="TypeDouble" index="10" invalid="no">2.4340000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">2.4510000000000001e+00</row><row type="TypeDouble" index="12" invalid="no">2.4620000000000002e+00</row><row type="TypeDouble" index="13" invalid="no">2.4900000000000002e+00</row><row type="TypeDouble" index="14" invalid="no">2.5000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">2.5139999999999998e+00</row><row type="TypeDouble" index="16" invalid="no">2.5289999999999999e+00</row><row type="TypeDouble" index="17" invalid="no">2.5520000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">2.5670000000000002e+00</row><row type="TypeDouble" index="19" invalid="no">2.5779999999999998e+00</row><row type="TypeDouble" index="20" invalid="no">2.5960000000000001e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	48	52	684	467	
+
+</table>
+<table>
+4611
+<table creation_time="2021-29-05 22:15:00:000" caption_spec="%n%C{ - }%c" name="蓝光" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-29-05 22:15:57:059" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:15:57:059" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:15:57:059" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">1.5000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">2.5000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">2.8000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">3.0000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">3.3700000000000003e+01</row><row type="TypeDouble" index="9" invalid="no">3.6899999999999999e+01</row><row type="TypeDouble" index="10" invalid="no">4.1200000000000003e+01</row><row type="TypeDouble" index="11" invalid="no">4.6000000000000000e+01</row><row type="TypeDouble" index="12" invalid="no">5.0399999999999999e+01</row><row type="TypeDouble" index="13" invalid="no">5.3700000000000003e+01</row><row type="TypeDouble" index="14" invalid="no">5.9100000000000001e+01</row><row type="TypeDouble" index="15" invalid="no">6.3799999999999997e+01</row><row type="TypeDouble" index="16" invalid="no">6.9000000000000000e+01</row><row type="TypeDouble" index="17" invalid="no">7.1900000000000006e+01</row><row type="TypeDouble" index="18" invalid="no">7.5099999999999994e+01</row><row type="TypeDouble" index="19" invalid="no">7.9099999999999994e+01</row><row type="TypeDouble" index="20" invalid="no">8.3200000000000003e+01</row></column><column creation_time="2021-29-05 22:16:25:651" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:16:25:651" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:16:25:651" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.4480000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.5920000000000001e+00</row><row type="TypeDouble" index="2" invalid="no">2.6210000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">2.6419999999999999e+00</row><row type="TypeDouble" index="4" invalid="no">2.6600000000000001e+00</row><row type="TypeDouble" index="5" invalid="no">2.6739999999999999e+00</row><row type="TypeDouble" index="6" invalid="no">2.6810000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">2.6869999999999998e+00</row><row type="TypeDouble" index="8" invalid="no">2.6949999999999998e+00</row><row type="TypeDouble" index="9" invalid="no">2.7029999999999998e+00</row><row type="TypeDouble" index="10" invalid="no">2.7130000000000001e+00</row><row type="TypeDouble" index="11" invalid="no">2.7229999999999999e+00</row><row type="TypeDouble" index="12" invalid="no">2.7320000000000002e+00</row><row type="TypeDouble" index="13" invalid="no">2.7380000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">2.7490000000000001e+00</row><row type="TypeDouble" index="15" invalid="no">2.7580000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">2.7679999999999998e+00</row><row type="TypeDouble" index="17" invalid="no">2.7719999999999998e+00</row><row type="TypeDouble" index="18" invalid="no">2.7789999999999999e+00</row><row type="TypeDouble" index="19" invalid="no">2.7850000000000001e+00</row><row type="TypeDouble" index="20" invalid="no">2.7909999999999999e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	71	74	684	467	
+
+</table>
+<table>
+5220
+<table creation_time="2021-29-05 22:24:00:000" caption_spec="%n%C{ - }%c" name="绿光相对光强与工作电流" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2021-29-05 22:24:15:485" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:24:15:485" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:24:15:485" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.2000000000000002e+00</row><row type="TypeDouble" index="1" invalid="no">7.2999999999999998e+00</row><row type="TypeDouble" index="2" invalid="no">1.0100000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">1.3800000000000001e+01</row><row type="TypeDouble" index="4" invalid="no">1.7100000000000001e+01</row><row type="TypeDouble" index="5" invalid="no">2.1199999999999999e+01</row><row type="TypeDouble" index="6" invalid="no">2.2899999999999999e+01</row><row type="TypeDouble" index="7" invalid="no">2.9100000000000001e+01</row><row type="TypeDouble" index="8" invalid="no">2.6899999999999999e+01</row><row type="TypeDouble" index="9" invalid="no">3.1199999999999999e+01</row><row type="TypeDouble" index="10" invalid="no">3.4100000000000001e+01</row><row type="TypeDouble" index="11" invalid="no">3.8600000000000001e+01</row><row type="TypeDouble" index="12" invalid="no">4.0000000000000000e+01</row><row type="TypeDouble" index="13" invalid="no">4.3100000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">4.6200000000000003e+01</row><row type="TypeDouble" index="15" invalid="no">5.0000000000000000e+01</row><row type="TypeDouble" index="16" invalid="no">5.2399999999999999e+01</row><row type="TypeDouble" index="17" invalid="no">5.5100000000000001e+01</row><row type="TypeDouble" index="18" invalid="no">5.9200000000000003e+01</row><row type="TypeDouble" index="19" invalid="no">6.4000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">6.8000000000000000e+01</row><row type="TypeDouble" index="21" invalid="no">7.1500000000000000e+01</row><row type="TypeDouble" index="22" invalid="no">7.7200000000000003e+01</row><row type="TypeDouble" index="23" invalid="no">8.1500000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">8.4000000000000000e+01</row></column><column creation_time="2021-29-05 22:24:46:957" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2021-29-05 22:24:46:957" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2021-29-05 22:24:46:957" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.6000000000000001e-03</row><row type="TypeDouble" index="1" invalid="no">2.2000000000000001e-03</row><row type="TypeDouble" index="2" invalid="no">3.0999999999999999e-03</row><row type="TypeDouble" index="3" invalid="no">4.1999999999999997e-03</row><row type="TypeDouble" index="4" invalid="no">5.1000000000000004e-03</row><row type="TypeDouble" index="5" invalid="no">6.4000000000000003e-03</row><row type="TypeDouble" index="6" invalid="no">7.1999999999999998e-03</row><row type="TypeDouble" index="7" invalid="no">9.1999999999999998e-03</row><row type="TypeDouble" index="8" invalid="no">9.2999999999999992e-03</row><row type="TypeDouble" index="9" invalid="no">9.7999999999999997e-03</row><row type="TypeDouble" index="10" invalid="no">1.0699999999999999e-02</row><row type="TypeDouble" index="11" invalid="no">1.1599999999999999e-02</row><row type="TypeDouble" index="12" invalid="no">1.2200000000000001e-02</row><row type="TypeDouble" index="13" invalid="no">1.3100000000000001e-02</row><row type="TypeDouble" index="14" invalid="no">1.4000000000000000e-02</row><row type="TypeDouble" index="15" invalid="no">1.4900000000000000e-02</row><row type="TypeDouble" index="16" invalid="no">1.5599999999999999e-02</row><row type="TypeDouble" index="17" invalid="no">1.6299999999999999e-02</row><row type="TypeDouble" index="18" invalid="no">1.7200000000000000e-02</row><row type="TypeDouble" index="19" invalid="no">1.8400000000000000e-02</row><row type="TypeDouble" index="20" invalid="no">1.9599999999999999e-02</row><row type="TypeDouble" index="21" invalid="no">2.0299999999999999e-02</row><row type="TypeDouble" index="22" invalid="no">2.1700000000000001e-02</row><row type="TypeDouble" index="23" invalid="no">2.2599999999999999e-02</row><row type="TypeDouble" index="24" invalid="no">2.3199999999999998e-02</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	95	100	684	467	
+
+</table>
+<multiLayer>
+三种光的伏安曲线	1	1	2021/5/29 22:16
+geometry	252	180	684	485	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	437	272
+Alignement	0	0
+<graph>
+ggeometry	3	1	672	432
+PlotTitle	三种单色光LED灯伏安曲线图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	电流(mA)	电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	27	50	0	0	0
+ScaleFont0	Baskerville	20	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	54	75	0	0	0
+ScaleFont2	Baskerville	20	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	54	75	0	0	0
+AxisFont0	Helvetica	16	50	0	0	0
+AxisFont1	.AppleSystemUIFont	54	50	0	0	0
+AxisFont2	Helvetica	16	50	0	0	0
+AxisFont3	.AppleSystemUIFont	54	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	蓝光_1	蓝光_3	1	0	#ff0000ff	0	1	7	2	#ff0829ff	#ff0829ff	0	#ff000000	14	0	0	64		2	0	0	29	1
+curve	红光_1	红光_3	1	0	#ffff00ff	0	1	9	1	#ffff0000	#ffff0000	0	#ff000000	14	0	0	64		2	0	0	29	1
+curve	绿光_1	绿光_3	1	0	#ff00ffff	0	1	9	5	#ff82ff1c	#ff82ff1c	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,非线性拟合1,x,0,90	100			0	1	#ff2369ff	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64	4 2 1 2 1 2	2	0	41013856	24576	1
+<formula>
+a=0.0020552337387083
+b=2.62517423875909
+
+a*x+b
+
+
+</formula>
+FunctionCurve	0,非线性拟合2,x,0,99.6	100			0	1	#ffcb7d3e	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64	4 2 1 2 1 2	2	0	41145360	24576	1
+<formula>
+a=0.00161110702415108
+b=1.77139632437019
+
+a*x+b
+
+
+</formula>
+FunctionCurve	0,非线性拟合3,x,0,90	100			0	1	#ff5d8a16	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64	4 2 1 2 1 2	2	0	41150688	24576	1
+<formula>
+a=0.00371522109318395
+b=2.30059314528543
+
+a*x+b
+
+
+</formula>
+scale	0	1.4	3	0	9	1	0	0
+scale	1	1.4	3	0	10	1	0	0
+scale	2	0	120	0	8	1	0	0
+scale	3	0	120	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	92.4297520661157	2.79584569732938	Helvetica	22	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}蓝光	\c{2}红光	\c{3}绿光</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+图片1	2	1	2021/5/29 22:24
+geometry	0	798	392	22	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	443	302
+Alignement	0	0
+<graph>
+ggeometry	5	5	518	390
+PlotTitle	绿色LED灯相对光强与工作电流关系图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Baskerville	18	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	49	75	0	0	0
+ScaleFont2	Baskerville	18	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	49	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	49	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	49	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,5.2,84	2			0	1	#ffff8000	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64	4 2 1 2 1 2	2	0	40973392	24576	1
+<formula>
+B=0.000832481352588349
+A=0.000275019497175661
+
+A*x+B
+
+
+
+
+</formula>
+scale	0	0	0.025	0	8	1	0	0
+scale	1	0	0.025	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	5.60377358490566	0.0230263157894737	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=0.000275x+0.000832</legend>
+</graph>
+<graph>
+ggeometry	528	6	516	386
+PlotTitle	绿色LED灯相对光强与工作电流关系图	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	23	50	0	0	0
+ScaleFont0	Baskerville	17	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	47	75	0	0	0
+ScaleFont2	Baskerville	17	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	47	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	47	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	47	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+scale	0	0	0.025	0	8	1	0	0
+scale	1	0	0.025	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	3.7070938215103	0.0232876712328767	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+图片2	2	2	2021/6/3 13:55
+geometry	-55	-8	1085	794	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	445	280
+Alignement	0	0
+<graph>
+ggeometry	5	5	533	368
+PlotTitle	绿色LED灯相对光强与工作电流完全线性拟合图（1）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Baskerville	18	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Baskerville	18	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,线性拟合1,x,5.2,84	2			0	1	#ffff8000	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	0	64	4 2 1 2 1 2	2	0	40973392	24576	1
+<formula>
+B=0.000832481352588349
+A=0.000275019497175661
+
+A*x+B
+
+
+
+
+</formula>
+scale	0	0	0.025	0	8	1	0	0
+scale	1	0	0.025	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	5.60377358490566	0.0230263157894737	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=0.000275x+0.000832	          R^2=0.99495</legend>
+</graph>
+<graph>
+ggeometry	544	5	533	368
+PlotTitle	绿色LED灯相对光强与工作电流部分拟合图（2）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Baskerville	18	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Baskerville	18	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,非线性拟合1,x,5.2,84	100			0	1	#ff0829ff	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	39950816	24576	1
+<formula>
+a=0.000324191592560414
+b=-0.00019686723739705
+
+a*x+b
+</formula>
+scale	0	0	0.03	0	8	1	0	0
+scale	1	0	0.03	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	3.64864864864865	0.0278494623655914	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=0.000324x-0.0002	          R^2=0.992365</legend>
+</graph>
+<graph>
+ggeometry	5	377	533	368
+PlotTitle	绿色LED灯相对光强与工作电流多项式拟合图（3）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Baskerville	18	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Baskerville	18	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,非线性拟合1,x,5.2,84	100			0	1	#ffda45ff	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	40841936	24576	1
+<formula>
+a=-7.78581190760065e-07
+b=0.000343684418911831
+c=-0.000253516782670965
+
+a*x^2+b*x+c
+</formula>
+scale	0	0	0.025	0	8	1	0	0
+scale	1	0	0.025	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	3.64864864864865	0.0232078853046595	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=-7.7e-7x^2+0.00034x-0.000253	          R^2=0.998899	</legend>
+</graph>
+<graph>
+ggeometry	544	377	533	368
+PlotTitle	绿色LED灯相对光强与工作电流对数拟合图（4）	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff000000
+grid	0	0	0	0	#ff0000ff	0	0	#ffa0a0a4	2	0	#ff0000ff	0	0	#ffa0a0a4	2	0	0	0	2	0
+EnabledAxes	1	1	1	1	
+AxesTitles	工作电流(mA)	负载电压(V)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	5124	4	5124
+TitleFont	Helvetica	24	50	0	0	0
+ScaleFont0	Baskerville	18	50	0	0	0
+ScaleFont1	.AppleSystemUIFont	48	75	0	0	0
+ScaleFont2	Baskerville	18	50	0	0	0
+ScaleFont3	.AppleSystemUIFont	48	75	0	0	0
+AxisFont0	Helvetica	14	50	0	0	0
+AxisFont1	.AppleSystemUIFont	48	50	0	0	0
+AxisFont2	Helvetica	14	50	0	0	0
+AxisFont3	.AppleSystemUIFont	48	50	0	0	0
+EnabledTickLabels	1	0	1	0	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	绿光相对光强与工作电流_1	绿光相对光强与工作电流_3	1	0	#ff000000	0	1	11	3	#ff11c638	#ff11c638	0	#ff000000	14	0	0	64		2	0	0	29	1
+FunctionCurve	0,非线性拟合1,x,5.2,84	100			0	1	#ffbec032	4	3	0	0	#ff000000	#ffa0a0a4	0	#ff000000	14	0	16	64	4 2 1 2 1 2	2	0	40792448	24576	1
+<formula>
+a=0.00824527815433862
+b=-0.0166288926048035
+
+a*ln(x)+b
+</formula>
+scale	0	-0.005	0.025	0	8	1	0	0
+scale	1	-0.005	0.025	0	10	1	0	0
+scale	2	0	90	0	10	1	0	0
+scale	3	0	90	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	3	3	3	0	
+MinorTicks	3	3	3	0	
+TicksLength	3	5
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	3.58407079646018	0.0228494623655914	Helvetica	14	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}data from experiments	\c{2}y=0.00824ln(x)-0.0166	          R^2=0.9102	</legend>
+</graph>
+</multiLayer>
+<log>
+[2021/5/29 22:26	绘图: '''']
+线性回归 数据集拟合: 绿光相对光强与工作电流_3, 使用函数: A*x+B
+Y 标准误差: 未知
+从 x = 5.2 到 x = 84
+B （Y截距） = 0.000832481352588349 +/- 0.000196242094414121
+A （斜率） = 0.000275019497175661 +/- 4.08467442683236e-06
+--------------------------------------------------------------------------------------
+Chi^2 = 5.23031631882054e-06
+R^2 = 0.994952016833165
+---------------------------------------------------------------------------------------
+[2021/6/2 13:30	绘图: '''']
+非线性 数据集拟合: 蓝光_3, 使用函数: a*x+b
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 20 到 x = 83.2
+a  = 0.0020552337387083 +/- 3.68958205336121e-05
+b  = 2.62517423875909 +/- 0.0020160374315771
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000135407218091561
+R^2 = 0.995189073045038
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/2 13:32	绘图: '''']
+非线性 数据集拟合: 红光_3, 使用函数: a*x+b
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 20 到 x = 99.6
+a  = 0.00161110702415108 +/- 3.92591034959485e-05
+b  = 1.77139632437019 +/- 0.00255018130643415
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000235145664318125
+R^2 = 0.991171799861919
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/2 13:33	绘图: '''']
+非线性 数据集拟合: 绿光_3, 使用函数: a*x+b
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 33 到 x = 81.2
+a  = 0.00371522109318395 +/- 7.62520907268509e-05
+b  = 2.30059314528543 +/- 0.00440040692550274
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000159590183559582
+R^2 = 0.995805225823115
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/3 13:57	绘图: '''']
+非线性 数据集拟合: 绿光相对光强与工作电流_3, 使用函数: a*x+b
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 5.2 到 x = 34.1
+a  = 0.000324191592560414 +/- 9.47824856560812e-06
+b  = -0.00019686723739705 +/- 0.000208946186276943
+--------------------------------------------------------------------------------------
+Chi^2 = 8.00126001322849e-07
+R^2 = 0.992365739700098
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/3 13:58	绘图: '''']
+非线性 数据集拟合: 绿光相对光强与工作电流_3, 使用函数: a*x^2+b*x+c
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 5.2 到 x = 84
+a  = -7.78581190760065e-07 +/- 8.76680242660387e-08
+b  = 0.000343684418911831 +/- 7.97387523518057e-06
+c  = -0.000253516782670965 +/- 0.000154058638530634
+--------------------------------------------------------------------------------------
+Chi^2 = 1.14071730764578e-06
+R^2 = 0.998899049040994
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/3 14:00	绘图: '''']
+非线性 数据集拟合: 绿光相对光强与工作电流_3, 使用函数: a*ln(x)+b
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 5.2 到 x = 84
+a  = 0.00824527815433862 +/- 0.000539837429625267
+b  = -0.0166288926048035 +/- 0.00194138514180875
+--------------------------------------------------------------------------------------
+Chi^2 = 9.2985812039232e-05
+R^2 = 0.910255750261329
+---------------------------------------------------------------------------------------
+迭代 = 1
+状态 = success
+---------------------------------------------------------------------------------------
+[2021/6/3 14:29	绘图: '''']
+非线性 数据集拟合: 绿光相对光强与工作电流_3, 使用函数: a*ln(b*x)+c
+Y 标准误差: 未知
+调整的Levenberg-Marquardt 容差算法= 0.0001
+从 x = 5.2 到 x = 84
+a  = 0.00824527803157456 +/- 0.00060690510585512
+b  = 0.0143637878926817 +/- 30,656.1007186747
+c  = 0.0183561635050364 +/- 17,597.6024060719
+--------------------------------------------------------------------------------------
+Chi^2 = 9.29858120614251e-05
+R^2 = 0.910255750239909
+---------------------------------------------------------------------------------------
+迭代 = 11
+状态 = success
+---------------------------------------------------------------------------------------
+</log>
