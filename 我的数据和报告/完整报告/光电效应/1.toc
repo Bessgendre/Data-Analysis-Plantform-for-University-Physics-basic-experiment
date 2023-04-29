@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}实验目的}{1}{}%
-\contentsline {section}{\numberline {2}实验原理}{1}{}%
-\contentsline {section}{\numberline {3}实验步骤}{2}{}%
-\contentsline {section}{\numberline {4}实验记录}{2}{}%
-\contentsline {section}{\numberline {5}数据处理}{2}{}%
-\contentsline {section}{\numberline {6}误差分析}{2}{}%
-\contentsline {section}{\numberline {7}提出改进}{2}{}%
